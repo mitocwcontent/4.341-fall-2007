@@ -7,7 +7,7 @@ leftnav:
   name: Calendar
   url: /pages/calendar
   weight: 20
-- identifier: 69f4b17f-a6bd-b15a-f62d-e6f559e9fd54
+- identifier: 1220c245-2727-bdc4-f9ca-b95b12778308
   name: Projects
-  url: /pages/projects
+  url: /pages/projects/
   weight: 30
